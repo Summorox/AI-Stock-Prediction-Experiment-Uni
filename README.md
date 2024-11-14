@@ -12,9 +12,9 @@ This repository contains a group project developed as part of a master's program
 ## Members
 | Name | Institutional Email | 
 |-----------------|-----------------|
-| Jorge Felício    | 1181244    | 
-| Alessandro Cunha    | 1220183    | 
-| Gabriel Ribeiro    | 1220189    | 
+| Jorge Felício    | 1181244@isep.ipp.pt    | 
+| Alessandro Cunha    | 1220183@isep.ipp.pt    | 
+| Gabriel Ribeiro    | 1220189@isep.ipp.pt    | 
 
 ## Usage
 1. Open and execute `IA_Stock_Prediction_Experiment.ipynb` in a Jupyter environment or in Google Colab.
