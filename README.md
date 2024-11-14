@@ -10,7 +10,7 @@ This repository contains a group project developed as part of a master's program
 3. **Optimization Algorithm**: A modified Particle Swarm Optimization (PSO) algorithm is used to select the top X stocks based on predicted performance while enforcing sector diversity to mitigate sector-specific risks.
 
 ## Technologies Used
-**Languages**: Python  
+**Languages**: [Python](https://www.python.org/)  
 **Main Technologies**: [Scikit-Learn](https://scikit-learn.org/stable/), [PyCaret](https://github.com/pycaret/pycaret), [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ## Members
