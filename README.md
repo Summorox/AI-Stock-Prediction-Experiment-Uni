@@ -3,11 +3,15 @@
 This repository contains a group project developed as part of a master's program in Artificial Intelligence at ISEP, completed in 2023. This experimental project was developed to explore the potential of using time series analysis for stock price prediction. Using S&P 500 historical data sourced from an API, the model attempts to predict future stock prices. Based on these predictions, an optimization algorithm is employed to select the top-performing stocks, ensuring sector diversity to mitigate risk and maximize returns.
 
 ## Methodology
-1. **Data Collection**: Historical stock data for S&P 500 companies is obtained through the Yahoo Finance API (yfinance), focusing on daily closing prices and other relevant metrics.
+1. **Data Collection**: Historical stock data for S&P 500 companies is obtained through the [Yahoo Finance API](https://pypi.org/project/yfinance/) , focusing on daily closing prices and other relevant metrics.
 
 2. **Predictive Model**: An ARIMA (Auto-Regressive Integrated Moving Average) model was used for stock price prediction, analyzing the historical price data to forecast future price movements.
 
 3. **Optimization Algorithm**: A modified Particle Swarm Optimization (PSO) algorithm is used to select the top X stocks based on predicted performance while enforcing sector diversity to mitigate sector-specific risks.
+
+## Technologies Used
+**Languages**: Python  
+**Main Technologies**: [Scikit-Learn](https://scikit-learn.org/stable/), [PyCaret](https://github.com/pycaret/pycaret), [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ## Members
 | Name | Institutional Email | 
